@@ -1,6 +1,6 @@
 {
   "name": "multizen-browser",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "Anti-detect browser for AI agents and human operators. Isolated Chromium profiles (cookies, fingerprint, proxy), driven through MCP.",
   "main": "src/index.ts",
   "scripts": {
